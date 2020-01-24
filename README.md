@@ -4,7 +4,8 @@ The purpose of this project is to demonstrate your ability to collect, work with
 The goal is to prepare tidy data that can be used for later analysis. 
 This Repository Contains:
 
-A tidy data set
+A tidy data set.
+
 A code book that describes the variables, the data, and any transformations or work that is performed to clean up the data called CodeBook.md.
 
 ## Dataset
