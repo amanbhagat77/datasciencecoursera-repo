@@ -5,7 +5,7 @@ The goal is to prepare tidy data that can be used for later analysis.
 This Repository Contains:
 
 A tidy data set.
-
+A script which contains all the code written to perform the required task.
 A code book that describes the variables, the data, and any transformations or work that is performed to clean up the data called CodeBook.md.
 
 ## Dataset
